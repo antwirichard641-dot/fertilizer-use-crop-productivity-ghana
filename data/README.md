@@ -1,0 +1,1 @@
+Stores the cleaned datasets used to examine fertilizer use and crop productivity in Ghana from 1961 to 2024. Each dataset will be documented with its source, variables, units, and any relevant limitations.
