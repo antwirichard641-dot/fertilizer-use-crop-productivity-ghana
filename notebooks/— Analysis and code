@@ -1,0 +1,1 @@
+Contains the completed Jupyter notebook used to import, clean, combine, visualize, and analyze FAOSTAT fertilizer and crop-yield data. Code cells and analytical steps will have concise explanations so another researcher can follow the workflow.
