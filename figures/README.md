@@ -1,0 +1,1 @@
+Stores publication-quality figures showing fertilizer-use trends and the relationship between changes in fertilizer use and crop yields. Each graph will have clear labels, units, a descriptive title, and an explanation in the README.
