@@ -1,0 +1,1 @@
+Stores CSV files containing the analysis dataset, fertilizer–yield correlation results, year-to-year correlation results, and regression results. Each file will have a clear explanation of its columns and how to interpret its contents.
