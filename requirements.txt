@@ -1,0 +1,13 @@
+# Python dependencies for Fertilizer Use and Crop Productivity Analysis
+
+# Data manipulation and tabular analysis
+pandas
+
+# Numerical calculations
+numpy
+
+# Data visualization
+matplotlib
+
+# Statistical analysis and regression
+scipy
